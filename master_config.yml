@@ -3,4 +3,3 @@ kind: MasterConfiguration
 cloudProvider: aws
 networking:
   podSubnet: 10.244.0.0/16
-kubernetesVersion: v1.9.2
